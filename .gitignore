@@ -219,3 +219,9 @@ __marimo__/
 
 *.zip
 *.csv
+fishnet/
+fishnet_results/
+linked_images/
+anns/
+*.jpg
+
