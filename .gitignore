@@ -224,4 +224,9 @@ fishnet_results/
 linked_images/
 anns/
 *.jpg
-
+*.txt
+*.png
+*.env
+*.xls
+*.xlsx
+*.pt
